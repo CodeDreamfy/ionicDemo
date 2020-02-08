@@ -1,0 +1,8 @@
+{
+  "appId": "com.deloitte.demo.ionic",
+  "appName": "myApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
